@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Likhith%20Gowda%20M%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/likhithdev)
 [![Gmail](https://img.shields.io/badge/Gmail-likhithgowdams2205%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:likhithgowdams2205@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Bengaluru%2C%20India-6D28D9?style=for-the-badge)](https://linkedin.com/in/likhithdev)
+[![Location](https://img.shields.io/badge/📍-Bengaluru%2C%20India-6D28D9?style=for-the-badge)](https://github.com/Likhith123-coder)
 [![Profile Views](https://komarev.com/ghpvc/?username=Likhith123-coder&style=for-the-badge&color=F97316&label=PROFILE+VIEWS)](https://github.com/Likhith123-coder)
 
 </div>
@@ -25,67 +25,134 @@ I write clean, maintainable, and efficient code with a deep focus on **OOP princ
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
-### <img src="https://img.shields.io/badge/%3C%2F%3E-LANGUAGES-F97316?style=flat-square&labelColor=1a1a2e" />
+> Tools and technologies I have worked with
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-### <img src="https://img.shields.io/badge/🧩-FRAMEWORKS-22C55E?style=flat-square&labelColor=1a1a2e" />
-
-<img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-### <img src="https://img.shields.io/badge/📦-LIBRARIES-38BDF8?style=flat-square&labelColor=1a1a2e" />
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JSP%2FJEE-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-
-### <img src="https://img.shields.io/badge/⚙️-TOOLS_%26_PLATFORMS-EC4899?style=flat-square&labelColor=1a1a2e" />
-
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
-<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-### <img src="https://img.shields.io/badge/🖥️-DEVELOPMENT_TOOLS-A855F7?style=flat-square&labelColor=1a1a2e" />
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48" />
+      <br>CSS3
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="48" height="48" />
+      <br>Spring
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" width="48" height="48" />
+      <br>Hibernate
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48" height="48" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="48" height="48" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn" width="48" height="48" />
+      <br>Scikit-Learn
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="48" height="48" />
+      <br>OpenCV
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ" width="48" height="48" />
+      <br>IntelliJ
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=langchain" alt="LangGraph" width="48" height="48" />
+      <br>LangGraph
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" alt="Tomcat" width="48" height="48" />
+      <br>Tomcat
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/openjdk/ED8B00" alt="JDBC" width="48" height="48" />
+      <br>JDBC / JSP
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/groq/F55036" alt="Groq" width="48" height="48" />
+      <br>Groq API
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Likhith123-coder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likhith123-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
-
-<br/><br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Likhith123-coder&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Likhith123-coder&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="90%" />
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Likhith123-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Likhith123-coder&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Likhith123-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -93,12 +160,34 @@ I write clean, maintainable, and efficient code with a deep focus on **OOP princ
 
 **Software Development Intern** — *Tap EdTech Private Limited, Bengaluru* &nbsp;|&nbsp; `Feb 2026 – May 2026`
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JSP%2FJEE-4479A1?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="48" height="48" />
+      <br>Spring
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" width="48" height="48" />
+      <br>Hibernate
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/openjdk/ED8B00" alt="JDBC" width="48" height="48" />
+      <br>JDBC
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/openjdk/007396" alt="JSP/JEE" width="48" height="48" />
+      <br>JSP / JEE
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+      <br>MySQL
+    </td>
+  </tr>
+</table>
 
 - Built database-driven backend applications using **JDBC, MySQL, and Hibernate** with practical exposure to data persistence and query optimization
 - Developed dynamic backend modules with **JSP, JEE, and Spring Framework**, applying OOP and DSA to build efficient, scalable solutions
