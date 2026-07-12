@@ -1,169 +1,112 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Likhith+Gowda+M+S;Java+%26+Python+Developer;Full-Stack+%7C+Backend+%7C+ML+Builder;Open+to+Software+Engineering+Roles!" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/likhithdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:likhithgowdams2205@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://komarev.com/ghpvc/?username=likhithdev&style=for-the-badge&color=6366f1" alt="Profile Views"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Likhith+Gowda+M+S;Java+%26+Python+Developer;Full-Stack+%7C+Backend+%7C+ML+Builder;Open+to+Software+Engineering+Roles!" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/likhithdev)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:likhithgowdams2205@gmail.com)
+![Location](https://img.shields.io/badge/Bengaluru%2C%20India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Likhith123-coder&style=for-the-badge&color=6366f1)
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-```java
-public class Likhith {
-
-    String name        = "Likhith Gowda M S";
-    String degree      = "B.E. — Information Science & Engineering (CGPA: 7.76)";
-    String college     = "SDM Institute of Technology, Ujire — 2026 Graduate";
-    String location    = "Bengaluru, India";
-    String experience  = "Software Dev Intern @ Tap EdTech Pvt Ltd";
-
-    String[] currentlyDoing = {
-        "Building full-stack & backend projects",
-        "Solving DSA problems in Java (Arrays, Two Pointer, Sliding Window)",
-        "Actively seeking Software Engineering / Backend / Full-Stack roles"
-    };
-
-    String funFact = "I debug faster with chai ☕ in hand.";
-}
-```
+<table>
+  <tr>
+    <td>🎓 <b>Degree</b></td>
+    <td>B.E. — Information Science & Engineering &nbsp;|&nbsp; CGPA: <b>7.76</b></td>
+  </tr>
+  <tr>
+    <td>🏫 <b>College</b></td>
+    <td>SDM Institute of Technology, Ujire — <b>2026 Graduate</b></td>
+  </tr>
+  <tr>
+    <td>📍 <b>Location</b></td>
+    <td>Bengaluru, India</td>
+  </tr>
+  <tr>
+    <td>💼 <b>Experience</b></td>
+    <td>Software Dev Intern @ <b>Tap EdTech Pvt Ltd</b></td>
+  </tr>
+  <tr>
+    <td>🔨 <b>Building</b></td>
+    <td>Full-Stack & Backend projects</td>
+  </tr>
+  <tr>
+    <td>📚 <b>Learning</b></td>
+    <td>DSA in Java — Arrays, Two Pointer, Sliding Window</td>
+  </tr>
+  <tr>
+    <td>🚀 <b>Seeking</b></td>
+    <td>Software Engineering / Backend / Full-Stack roles</td>
+  </tr>
+  <tr>
+    <td>⚡ <b>Fun Fact</b></td>
+    <td>I debug faster with chai ☕ in hand</td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Languages
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark&perline=10" />
 
-**Backend & Frameworks**
+### Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=spring,hibernate,flask,fastapi&theme=dark&perline=10" />
 
-![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP%2FJEE-007396?style=for-the-badge&logo=java&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,redux&theme=dark&perline=10" />
 
-**Frontend**
+### Database
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=10" />
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+### ML / AI
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv&theme=dark&perline=10" />
+<br/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
 
-**Database**
+### Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark&perline=10" />
+<br/>
+<img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
-
-**ML / AI**
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🍔 [BiteRush — Full-Stack Food Delivery App](https://github.com/likhithdev/biterush)
-
-> A complete food delivery web application built from scratch with real-world architecture.
-
-| Layer | Tech Used |
-|-------|-----------|
-| Backend | Java · Spring Framework · Hibernate · JDBC |
-| Frontend | JSP · HTML/CSS · JavaScript |
-| Database | MySQL (Apache Tomcat v9.0) |
-| Security | BCrypt password hashing |
-
-- Role-based user authentication with secure password management
-- Full restaurant → cart → order → payment flow
-- Profile management with modal-based editing UX
-
----
-
-### 🤖 [AI-First CRM System](https://github.com/likhithdev/ai-first-crm)
-
-> End-to-end AI-powered CRM built as a 36-hour job assignment — fully functional.
-
-| Layer | Tech Used |
-|-------|-----------|
-| Backend | FastAPI · LangGraph (5-tool AI agent) · Groq API |
-| Frontend | React · Redux Toolkit |
-| Database | MySQL |
-
-- LangGraph agent with 5 custom tools for intelligent customer interactions
-- Real-time state management via Redux Toolkit
-- RESTful API architecture with FastAPI
-
----
-
-### 🧠 [Disease Prediction by Symptoms](https://github.com/likhithdev/disease-prediction)
-
-> ML model that predicts diseases based on user-reported symptoms — **87% accuracy**.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-
-- Trained on multi-label symptom-disease dataset
-- Flask web interface for symptom input and prediction output
-- 87% classification accuracy using ensemble methods
-
----
-
-### 😴 [Driver Drowsiness Detection](https://github.com/likhithdev/drowsiness-detection)
-
-> Real-time drowsiness alert system using computer vision — **90%+ accuracy**.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-- Eye-aspect-ratio (EAR) based drowsiness detection via webcam
-- TensorFlow/Keras CNN model with 90%+ accuracy
-- Real-time alert with audio trigger on drowsiness detection
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likhithdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=likhithdev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Likhith123-coder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likhith123-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=likhithdev&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Likhith123-coder&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Likhith123-coder&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
 
 ---
 
 ## 💼 Experience
 
 **Software Development Intern** — *Tap EdTech Private Limited, Bengaluru*
-> Java · Spring Framework · Hibernate · JDBC · JSP · JEE
+
+`Java` `Spring Framework` `Hibernate` `JDBC` `JSP` `JEE`
 
 - Developed and maintained backend modules using the Spring MVC framework
 - Worked with Hibernate ORM for database persistence and JDBC for direct query operations
@@ -173,28 +116,110 @@ public class Likhith {
 
 ## 🎓 Education
 
-**B.E. — Information Science & Engineering** | *SDM Institute of Technology, Ujire* | **2026**
-CGPA: **7.76**
+**B.E. — Information Science & Engineering** &nbsp;|&nbsp; *SDM Institute of Technology, Ujire* &nbsp;|&nbsp; **2026**
+&nbsp;&nbsp;&nbsp;CGPA: **7.76**
 
 ---
 
 ## 📫 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/likhithdev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%40likhithdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:likhithgowdams2205@gmail.com">
-    <img src="https://img.shields.io/badge/Email-likhithgowdams2205%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40likhithdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/likhithdev)
+[![Email](https://img.shields.io/badge/Email-likhithgowdams2205%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:likhithgowdams2205@gmail.com)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" alt="footer wave"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>💡 "Code. Build. Ship. Repeat." — Open to exciting Software Engineering opportunities in Bengaluru!</i>
-</p>
+<!-- Sailing ship SVG animation -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="100%" height="160">
+  <defs>
+    <linearGradient id="seaGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1b4b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d0d2b;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:0.6" />
+      <stop offset="50%" style="stop-color:#818cf8;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#6366f1;stop-opacity:0.6" />
+    </linearGradient>
+    <style>
+      .ship { animation: sail 12s linear infinite; }
+      @keyframes sail {
+        0%   { transform: translateX(920px); }
+        100% { transform: translateX(-200px); }
+      }
+      .wave1 { animation: wave 4s ease-in-out infinite; }
+      .wave2 { animation: wave 4s ease-in-out infinite 0.8s; }
+      .wave3 { animation: wave 4s ease-in-out infinite 1.6s; }
+      @keyframes wave {
+        0%, 100% { d: path("M0,100 C150,80 300,120 450,100 C600,80 750,120 900,100 L900,160 L0,160 Z"); }
+        50%       { d: path("M0,110 C150,90 300,130 450,110 C600,90 750,130 900,110 L900,160 L0,160 Z"); }
+      }
+      .star { animation: twinkle 2s ease-in-out infinite; }
+      .star2 { animation: twinkle 2s ease-in-out infinite 0.7s; }
+      .star3 { animation: twinkle 2s ease-in-out infinite 1.4s; }
+      @keyframes twinkle {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.2; }
+      }
+      .bobship { animation: sail 12s linear infinite, bob 2s ease-in-out infinite; }
+      @keyframes bob {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-4px); }
+      }
+    </style>
+  </defs>
+
+  <!-- Sky background -->
+  <rect width="900" height="160" fill="url(#seaGrad)" rx="12"/>
+
+  <!-- Stars -->
+  <circle class="star"  cx="80"  cy="18" r="1.5" fill="#c7d2fe"/>
+  <circle class="star2" cx="200" cy="10" r="1"   fill="#e0e7ff"/>
+  <circle class="star3" cx="340" cy="22" r="1.5" fill="#c7d2fe"/>
+  <circle class="star"  cx="500" cy="8"  r="1"   fill="#e0e7ff"/>
+  <circle class="star2" cx="650" cy="20" r="1.5" fill="#c7d2fe"/>
+  <circle class="star3" cx="780" cy="12" r="1"   fill="#e0e7ff"/>
+  <circle class="star"  cx="860" cy="25" r="1.5" fill="#c7d2fe"/>
+
+  <!-- Moon -->
+  <circle cx="820" cy="30" r="14" fill="#1e1b4b"/>
+  <circle cx="826" cy="24" r="11" fill="#e0e7ff" opacity="0.9"/>
+
+  <!-- Sea waves (back layer) -->
+  <path class="wave1" d="M0,100 C150,80 300,120 450,100 C600,80 750,120 900,100 L900,160 L0,160 Z" fill="#312e81" opacity="0.5"/>
+
+  <!-- Sea waves (front layer) -->
+  <path class="wave2" d="M0,108 C150,88 300,128 450,108 C600,88 750,128 900,108 L900,160 L0,160 Z" fill="url(#waveGrad)" opacity="0.7"/>
+
+  <!-- Foam -->
+  <path class="wave3" d="M0,118 C150,105 300,132 450,118 C600,105 750,132 900,118 L900,160 L0,160 Z" fill="#6366f1" opacity="0.4"/>
+
+  <!-- SAILING SHIP (moves right to left) -->
+  <g class="ship">
+    <!-- Hull -->
+    <path d="M10,90 Q40,105 70,102 Q100,105 120,90 L115,82 L15,82 Z" fill="#4338ca"/>
+    <path d="M15,82 L115,82 L110,75 L20,75 Z" fill="#6366f1"/>
+    <!-- Mast -->
+    <line x1="65" y1="75" x2="65" y2="20" stroke="#c7d2fe" stroke-width="2.5"/>
+    <!-- Main sail -->
+    <path d="M65,22 L65,70 L105,60 Z" fill="#e0e7ff" opacity="0.92"/>
+    <!-- Front sail -->
+    <path d="M65,30 L65,68 L30,58 Z" fill="#c7d2fe" opacity="0.85"/>
+    <!-- Flag -->
+    <path d="M65,20 L82,26 L65,32 Z" fill="#f59e0b"/>
+    <!-- Wave splash under hull -->
+    <path d="M5,100 Q40,94 75,100 Q110,106 128,100" stroke="#818cf8" stroke-width="2" fill="none" opacity="0.7"/>
+  </g>
+
+</svg>
+
+<br/>
+
+*💡 "Code. Build. Ship. Repeat." — Open to exciting Software Engineering opportunities in Bengaluru!*
+
+</div>
