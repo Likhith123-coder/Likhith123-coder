@@ -4,10 +4,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Likhith%20Gowda%20M%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/likhithdev)
-[![Gmail](https://img.shields.io/badge/Gmail-likhithgowdams2205%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:likhithgowdams2205@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Bengaluru%2C%20India-6D28D9?style=for-the-badge)](https://github.com/Likhith123-coder)
-[![Profile Views](https://komarev.com/ghpvc/?username=Likhith123-coder&style=for-the-badge&color=F97316&label=PROFILE+VIEWS)](https://github.com/Likhith123-coder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)](https://linkedin.com/in/likhithdev)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=social&logo=gmail)](mailto:likhithgowdams2205@gmail.com)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=Likhith123-coder&style=flat&color=F97316&label=Profile+Views)](https://github.com/Likhith123-coder)
 
 </div>
 
@@ -160,34 +161,12 @@ I write clean, maintainable, and efficient code with a deep focus on **OOP princ
 
 **Software Development Intern** — *Tap EdTech Private Limited, Bengaluru* &nbsp;|&nbsp; `Feb 2026 – May 2026`
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="48" height="48" />
-      <br>Spring
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" width="48" height="48" />
-      <br>Hibernate
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/openjdk/ED8B00" alt="JDBC" width="48" height="48" />
-      <br>JDBC
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/openjdk/007396" alt="JSP/JEE" width="48" height="48" />
-      <br>JSP / JEE
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
-      <br>MySQL
-    </td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JSP%2FJEE-007396?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
 - Built database-driven backend applications using **JDBC, MySQL, and Hibernate** with practical exposure to data persistence and query optimization
 - Developed dynamic backend modules with **JSP, JEE, and Spring Framework**, applying OOP and DSA to build efficient, scalable solutions
