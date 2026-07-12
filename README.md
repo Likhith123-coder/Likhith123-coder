@@ -67,17 +67,16 @@ I write clean, maintainable, and efficient code with a deep focus on **OOP princ
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Likhith123-coder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likhith123-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Likhith123-coder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likhith123-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%"/>
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Likhith123-coder&theme=tokyonight&hide_border=true" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Likhith123-coder&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Likhith123-coder&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Likhith123-coder&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="90%"/>
 
 </div>
 
@@ -114,6 +113,6 @@ I write clean, maintainable, and efficient code with a deep focus on **OOP princ
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:312e81,100:6366f1&height=180&section=footer&text=⚓%20Code.%20Build.%20Ship.%20Repeat.&fontSize=24&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Open%20to%20Software%20Engineering%20opportunities%20in%20Bengaluru!&descAlignY=75&descSize=14" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:312e81,100:6366f1&height=180&section=footer&text=⚓%20Code.%20Build.%20Ship.%20Repeat.&fontSize=24&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Open%20to%20Software%20Engineering%20opportunities%20in%20Bengaluru!&descAlignY=75&descSize=14" width="100%"/>
 
 </div>
