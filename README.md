@@ -81,18 +81,6 @@ I write clean, maintainable, and efficient code with a deep focus on **OOP princ
       <br>Flask
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="48" height="48" />
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn" width="48" height="48" />
       <br>Scikit-Learn
     </td>
@@ -104,11 +92,27 @@ I write clean, maintainable, and efficient code with a deep focus on **OOP princ
       <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="48" height="48" />
       <br>OpenCV
     </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="AI" width="65" height="48" />
+      <br>AI
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/ML-0277BD?style=flat-square&logo=python&logoColor=white" alt="ML" width="65" height="48" />
+      <br>ML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="48" height="48" />
+      <br>Eclipse
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
       <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
+      <br>GitHub
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" />
@@ -119,28 +123,12 @@ I write clean, maintainable, and efficient code with a deep focus on **OOP princ
       <br>IntelliJ
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=langchain" alt="LangGraph" width="48" height="48" />
-      <br>LangGraph
-    </td>
-    <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" alt="Tomcat" width="48" height="48" />
       <br>Tomcat
     </td>
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/openjdk/ED8B00" alt="JDBC" width="48" height="48" />
       <br>JDBC / JSP
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/groq/F55036" alt="Groq" width="48" height="48" />
-      <br>Groq API
     </td>
   </tr>
 </table>
