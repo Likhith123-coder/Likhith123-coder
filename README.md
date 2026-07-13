@@ -14,13 +14,13 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Backend-focused Full-Stack Developer** with strong expertise in **Java, Spring Framework, Hibernate, and MySQL**. I design clean backend architectures using the **DAO design pattern**, implement secure authentication, and build **RESTful APIs** end-to-end.
+I'm a **Full-Stack Developer with a strong passion for AI & Machine Learning**, skilled in building end-to-end applications — from robust **Java & Spring Framework** backends to responsive frontends, with intelligent ML layers on top.
 
-Beyond backend, I've built **Machine Learning systems** achieving 87%+ accuracy in real-world prediction tasks using **Python, Scikit-Learn, Flask, and TensorFlow**. I'm comfortable across the full stack — from database schema design and ORM-level persistence to frontend integration.
+I specialize in designing clean backend systems using the **DAO design pattern**, secure authentication, and **RESTful APIs**, while also integrating **AI/ML models** into real-world applications. I've built predictive systems achieving **87%+ accuracy** using **Python, Scikit-Learn, Flask, and TensorFlow**, and I'm deeply interested in how AI can make software smarter and more impactful.
 
-I write clean, maintainable, and efficient code with a deep focus on **OOP principles, DSA, and system design**.
+I write clean, maintainable code with a strong focus on **OOP principles, DSA, and system design** — always looking for ways to combine solid engineering with cutting-edge AI.
 
-> ⚡ Actively seeking **Software Engineering / Backend / Full-Stack roles** in Bengaluru — I debug faster with chai ☕ in hand.
+> ⚡ Actively seeking **Software Engineering / Full-Stack / AI-ML roles** in Bengaluru — I debug faster with chai ☕ in hand.
 
 ---
 
