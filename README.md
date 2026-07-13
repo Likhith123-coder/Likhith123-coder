@@ -159,34 +159,12 @@ I write clean, maintainable, and efficient code with a deep focus on **OOP princ
 
 **Software Development Intern** — *Tap EdTech Private Limited, Bengaluru* &nbsp;|&nbsp; `Feb 2026 – May 2026`
 
-<table>
-  <tr>
-    <td align="center" width="70">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="40" height="40" />
-      <br><sub>Java</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="40" height="40" />
-      <br><sub>Spring</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" width="40" height="40" />
-      <br><sub>Hibernate</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="40" height="40" />
-      <br><sub>MySQL</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://skillicons.dev/icons?i=html" alt="JSP/JEE" width="40" height="40" />
-      <br><sub>JSP / JEE</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://cdn.simpleicons.org/openjdk/ED8B00" alt="JDBC" width="40" height="40" />
-      <br><sub>JDBC</sub>
-    </td>
-  </tr>
-</table>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&logoWidth=20)
+![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=spring&logoColor=white&logoWidth=20)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white&logoWidth=20)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=openjdk&logoColor=white&logoWidth=20)
+![JSP](https://img.shields.io/badge/JSP%2FJEE-007396?style=flat-square&logo=openjdk&logoColor=white&logoWidth=20)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&logoWidth=20)
 
 - Built database-driven backend applications using **JDBC, MySQL, and Hibernate** with practical exposure to data persistence and query optimization
 - Developed dynamic backend modules with **JSP, JEE, and Spring Framework**, applying OOP and DSA to build efficient, scalable solutions
