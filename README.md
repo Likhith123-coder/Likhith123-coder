@@ -4,11 +4,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)](https://linkedin.com/in/likhithdev)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=social&logo=gmail)](mailto:likhithgowdams2205@gmail.com)
-&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=Likhith123-coder&style=flat&color=F97316&label=Profile+Views)](https://github.com/Likhith123-coder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/likhithdev)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:likhithgowdams2205@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Likhith123-coder&style=for-the-badge&color=F97316&label=Profile+Views)](https://github.com/Likhith123-coder)
 
 </div>
 
@@ -161,12 +159,12 @@ I write clean, maintainable, and efficient code with a deep focus on **OOP princ
 
 **Software Development Intern** — *Tap EdTech Private Limited, Bengaluru* &nbsp;|&nbsp; `Feb 2026 – May 2026`
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JSP%2FJEE-007396?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&logoWidth=20)
+![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=spring&logoColor=white&logoWidth=20)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white&logoWidth=20)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=openjdk&logoColor=white&logoWidth=20)
+![JSP](https://img.shields.io/badge/JSP%2FJEE-007396?style=flat-square&logo=openjdk&logoColor=white&logoWidth=20)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&logoWidth=20)
 
 - Built database-driven backend applications using **JDBC, MySQL, and Hibernate** with practical exposure to data persistence and query optimization
 - Developed dynamic backend modules with **JSP, JEE, and Spring Framework**, applying OOP and DSA to build efficient, scalable solutions
@@ -178,9 +176,8 @@ I write clean, maintainable, and efficient code with a deep focus on **OOP princ
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Likhith%20Gowda%20M%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/likhithdev)
-&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-likhithgowdams2205%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:likhithgowdams2205@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/likhithdev)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:likhithgowdams2205@gmail.com)
 
 </div>
 
