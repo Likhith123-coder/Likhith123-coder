@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Likhith+Gowda+M+S;Backend+%26+Full-Stack+Developer;Java+%7C+Spring+%7C+Python+%7C+ML+Engineer;Building+Scalable+Systems+%F0%9F%9A%80;Open+to+Software+Engineering+Roles!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Likhith+Gowda+M+S;Full-Stack+Developer+%7C+AI+Enthusiast;Java+%7C+Spring+%7C+Python+%7C+ML+%7C+AI;Building+Intelligent+Systems+%F0%9F%9A%80;Open+to+Full-Stack+%26+AI-ML+Roles!" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/likhithdev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:likhithgowdams2205@gmail.com)
-
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/likhithdev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:likhithgowdams2205@gmail.com)
 
 </div>
 
