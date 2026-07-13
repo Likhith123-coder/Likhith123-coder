@@ -167,6 +167,16 @@ I write clean, maintainable code with a strong focus on **OOP principles, DSA, a
 
 ---
 
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Likhith123-coder/Likhith123-coder/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 🐍 Contribution Graph
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Likhith123-coder/Likhith123-coder/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:312e81,100:6366f1&height=180&section=footer&text=⚓%20Code.%20Build.%20Ship.%20Repeat.&fontSize=24&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Open%20to%20Software%20Engineering%20opportunities%20in%20Bengaluru!&descAlignY=75&descSize=14" width="100%" />
