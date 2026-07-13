@@ -159,12 +159,7 @@ I write clean, maintainable, and efficient code with a deep focus on **OOP princ
 
 **Software Development Intern** — *Tap EdTech Private Limited, Bengaluru* &nbsp;|&nbsp; `Feb 2026 – May 2026`
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/JSP%2FJEE-007396?style=for-the-badge&logo=openjdk&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" /> <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JSP%2FJEE-007396?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
 - Built database-driven backend applications using **JDBC, MySQL, and Hibernate** with practical exposure to data persistence and query optimization
 - Developed dynamic backend modules with **JSP, JEE, and Spring Framework**, applying OOP and DSA to build efficient, scalable solutions
