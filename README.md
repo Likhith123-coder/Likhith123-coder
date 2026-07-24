@@ -154,21 +154,11 @@ I write clean, maintainable code with a strong focus on **OOP principles, DSA, a
 
 ---
 
-## 🏆 Trophies
+## 💻 Terminal Session
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Likhith123-coder&theme=dark&column=7&margin-w=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Likhith123-coder&theme=react-dark&hide_border=true&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=22C55E&background=0D1117FF&center=true&vCenter=true&width=650&lines=%24+whoami;likhith_gowda+%E2%9C%93;%24+nmap+-sV+career.opportunities;Scanning...+Full-Stack+%2F+AI-ML+ports+open;%24+sudo+access+--grant+recruiter;Access+granted+%E2%9C%94;%24+cat+skills.txt+%7C+grep+-i+java;Java+%7C+Spring+%7C+Python+%7C+ML+%E2%9C%93;%24+echo+%22Status%3A+Open+to+work%22;Status%3A+Open+to+work+%F0%9F%9A%80" alt="hacker terminal" />
 
 </div>
 
