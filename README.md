@@ -152,6 +152,25 @@ I write clean, maintainable code with a strong focus on **OOP principles, DSA, a
 - Developed dynamic backend modules with **JSP, JEE, and Spring Framework**, applying OOP and DSA to build efficient, scalable solutions
 - Strengthened problem-solving and debugging skills across the full backend development lifecycle
 
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Likhith123-coder&theme=dark&column=7&margin-w=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Likhith123-coder&theme=react-dark&hide_border=true&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff)
+
+</div>
 
 ---
 
@@ -164,16 +183,6 @@ I write clean, maintainable code with a strong focus on **OOP principles, DSA, a
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__likhith__0/)
 
 </div>
-
----
-
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Likhith123-coder/Likhith123-coder/output/github-contribution-grid-snake-dark.svg)
-
----
-
-## 🐍 Contribution Graph
-
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Likhith123-coder/Likhith123-coder/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
