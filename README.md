@@ -164,6 +164,16 @@ I write clean, maintainable code with a strong focus on **OOP principles, DSA, a
 
 ---
 
+## 💬 Random Dev Quote
+
+<div align="center">
+
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
 ## 📫 Connect with Me
 
 <div align="center">
